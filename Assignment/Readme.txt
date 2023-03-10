@@ -29,6 +29,8 @@ Step 5. If Step 4 is completed successfully, create a program that takes a City 
 
 Step 6. If Step 5 is completed successfuly, create a program that shows me the number of registrations from each city
 
+
+
 Note: You can create one class for performing Step 1 to 4 and a separate class to perform Step 5 and 6
    
    
